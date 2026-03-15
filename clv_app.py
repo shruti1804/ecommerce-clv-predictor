@@ -48,7 +48,7 @@ recency = st.sidebar.slider("Or slide:", min_value=1, max_value=365, value=int(r
 # Frequency
 st.sidebar.markdown("**2. Frequency (Total number of orders)**")
 freq_text = st.sidebar.number_input("Type Orders:", min_value=1, max_value=20, value=2)
-frequency = st.sidebar.slider("Or slide:", min_value=1, max_value=20, value=int(freq_text), label_visibility="collapsed")
+frequency = st.sidebar.slider("Or slide:", min_value=1, max_value=50, value=int(freq_text), label_visibility="collapsed")
 
 # Monetary (Dynamic for USD/INR)
 st.sidebar.markdown(f"**3. Monetary (Total spend in {symbol})**")
