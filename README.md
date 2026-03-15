@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Customer Lifetime Value (CLV) & Churn Predictor
-
+## 🔗 [Live Web App Demo](https://shruti-ecommerce-clv-predictor.streamlit.app/)
 ## 📌 Project Overview
 It’s a well-known retail fact: keeping an existing customer is much cheaper than finding a new one. But how do you know *which* customers are worth prioritizing? 
 
